@@ -1,3 +1,18 @@
+# # 尚硅谷甄选项目
+项目创建命令
+```
+yarn create vue@latest
+// 
+npm create vue@latest
+```
+
+## 1 介绍
+
+1 技术
+
+- vue3
+- typescript
+- 
 # learn_project_guili_select_2
 
 This template should help get you started developing with Vue 3 in Vite.
